@@ -34,3 +34,18 @@ The detected hand landmarks are then used to draw a visual representation of the
 ## Acknowledgements
 
 This project was made possible thanks to the TensorFlow.js Hand Detection model, which was developed by Google Research. The hand detection model is based on the MobileNet architecture and was trained on a large dataset of hand images.
+
+## Contributing
+I welcome contributions from the community! To contribute, please follow these steps:
+
+1. Fork the repository
+2. Create a new branch for your feature or bug fix
+3. Make your changes and commit them with clear commit messages
+4. Push your changes to your forked repository
+5. Submit a pull request with a clear description of your changes
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+If you have any questions or comments about this project, please contact me at [pulkit2489k@gmail.com](mailto:pulkit2489k@gmail.com)
